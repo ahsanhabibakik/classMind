@@ -32,9 +32,11 @@ postgrest==2.22.0
 propcache==0.4.1
 pycparser==2.23
 pydantic==2.12.2
+pydantic-settings==2.2.1
 pydantic_core==2.41.4
 PyJWT==2.10.1
 python-dotenv==1.1.1
+python-jose==3.3.0
 PyYAML==6.0.3
 realtime==2.22.0
 requests==2.32.5
