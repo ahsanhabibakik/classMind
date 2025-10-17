@@ -36,6 +36,9 @@ env/
 .env
 .env.local
 
+# Backend environment file
+backend/.env
+
 # OS
 .DS_Store
 Thumbs.db
